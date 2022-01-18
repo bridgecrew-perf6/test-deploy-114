@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/projectReact21/cozaStore.git/static/css/main.9fa4fdfc.chunk.css",
+    "main.js": "/projectReact21/cozaStore.git/static/js/main.f76cb1f8.chunk.js",
+    "main.js.map": "/projectReact21/cozaStore.git/static/js/main.f76cb1f8.chunk.js.map",
+    "runtime-main.js": "/projectReact21/cozaStore.git/static/js/runtime-main.dba51bb1.js",
+    "runtime-main.js.map": "/projectReact21/cozaStore.git/static/js/runtime-main.dba51bb1.js.map",
+    "static/css/2.7890dbdd.chunk.css": "/projectReact21/cozaStore.git/static/css/2.7890dbdd.chunk.css",
+    "static/js/2.96c44c12.chunk.js": "/projectReact21/cozaStore.git/static/js/2.96c44c12.chunk.js",
+    "static/js/2.96c44c12.chunk.js.map": "/projectReact21/cozaStore.git/static/js/2.96c44c12.chunk.js.map",
+    "index.html": "/projectReact21/cozaStore.git/index.html",
+    "static/css/2.7890dbdd.chunk.css.map": "/projectReact21/cozaStore.git/static/css/2.7890dbdd.chunk.css.map",
+    "static/css/main.9fa4fdfc.chunk.css.map": "/projectReact21/cozaStore.git/static/css/main.9fa4fdfc.chunk.css.map",
+    "static/js/2.96c44c12.chunk.js.LICENSE.txt": "/projectReact21/cozaStore.git/static/js/2.96c44c12.chunk.js.LICENSE.txt",
+    "static/media/about-01.bea3996d.jpg": "/projectReact21/cozaStore.git/static/media/about-01.bea3996d.jpg",
+    "static/media/bg-02.c00b6c22.jpg": "/projectReact21/cozaStore.git/static/media/bg-02.c00b6c22.jpg",
+    "static/media/font-awesome.css": "/projectReact21/cozaStore.git/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/product-02.f09e4dbf.jpg": "/projectReact21/cozaStore.git/static/media/product-02.f09e4dbf.jpg",
+    "static/media/slick-theme.css": "/projectReact21/cozaStore.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dba51bb1.js",
+    "static/css/2.7890dbdd.chunk.css",
+    "static/js/2.96c44c12.chunk.js",
+    "static/css/main.9fa4fdfc.chunk.css",
+    "static/js/main.f76cb1f8.chunk.js"
+  ]
+}
